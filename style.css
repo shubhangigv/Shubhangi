@@ -1,0 +1,44 @@
+header{
+    text-align: center;
+    font-size: large;
+    font-style:italic;
+}
+.header-content{
+    text-align: center;
+    color: rgb(212, 143, 13);
+    background-color:burlywood;
+    border:5px black outset;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+body{
+    background-color:rgb(158, 136, 136);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px   
+    border:solid 2px white;
+list-style-type: none;
+
+}
+footer{
+    font-style: bold;
+    text-align: center
+}
+
+.contact{
+    text-align:center;
+}
+
+.header{
+    border:solid 2px white;
+    text-align:center; 
+    background-color:beige;
+    color: blue; 
+}
